@@ -51,6 +51,10 @@ class LinkedList{
     }
 };
 
+bool listEmpty(){
+    
+}
+
 int main(){
 
 }
