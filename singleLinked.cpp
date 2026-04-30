@@ -53,6 +53,10 @@ class LinkedList{
     bool listEmpty(){
         return (START == NULL);
     }
+
+    bool Search(int nim, Node **previous, Node **current){
+        
+    }
 };
 
 
